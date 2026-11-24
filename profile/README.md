@@ -13,5 +13,5 @@ Every problem goes to the method that wins on it: classical, GPU, quantum-inspir
 </p>
 
 <p align="center">
-  <a href="https://entanglx.ai">entanglx.ai</a> · contact@entanglx.ai
+  <a href="https://entanglx.ai">www.entanglx.ai</a> · contact@entanglx.ai
 </p>
